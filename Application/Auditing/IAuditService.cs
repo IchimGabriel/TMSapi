@@ -1,4 +1,6 @@
-﻿namespace Application.Auditing
+﻿using Application.Common.Interfaces;
+
+namespace Application.Auditing
 {
     public interface IAuditService : ITransientService
     {
