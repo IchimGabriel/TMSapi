@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Identity\Users\Password\" />
     <Folder Include="Properties\" />
   </ItemGroup>
 
