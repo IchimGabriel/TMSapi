@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using Application.Common.Interfaces;
+using MediatR;
 
 namespace Application.Auditing
 {
