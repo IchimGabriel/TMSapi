@@ -1,6 +1,6 @@
 ﻿namespace Shared.Notifications
 {
-    public class NotificationConstants
+    public static class NotificationConstants
     {
         // method to send notification from server to client
         public const string NotificationFromServer = nameof(NotificationFromServer);
